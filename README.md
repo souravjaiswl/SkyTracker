@@ -29,8 +29,6 @@ These dependencies enable various features in your app, ranging from UI developm
 
 #### hope to add in the near-future:
  
-- ❌ Add widgets (I have been trying but it's just so complicated 😑)
-- ❌ Add better support for tablets
 - ❌ Maybe add notifications
 - ❌ Maybe add to Iphone (right now Android only)
 - ❌ More weather providers

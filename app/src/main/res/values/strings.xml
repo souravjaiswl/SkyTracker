@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name_line1">Sky</string>
+    <string name="app_name_line2">Tracker</string>
+    <string name="app_name">Sky\u000ATracker</string>
+</resources>
